@@ -1,1 +1,0 @@
-## Outline for this directory:
