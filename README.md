@@ -34,7 +34,8 @@ $$
   * [Order Exposure in High Frequency Markets](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjWh56jmLP7AhXKSsAKHVbGDC8QFnoECAkQAw&url=http%3A%2F%2Ffaculty.haas.berkeley.edu%2Fhender%2FHidden_AT_HFT.pdf&usg=AOvVaw1SUvGS2w2GWj83ibC4MRSA)
   
 
-## Note: Updated [source](https://github.com/KangOxford/IntradayVoume) of codes with Decomposition Components to be utilized in prediction:
+## Note: Updated [source](https://github.com/KangOxford/IntradayVoume) of codes 
+With **Decomposition Components** to be utilized in prediction:
 
 
 
